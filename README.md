@@ -38,4 +38,4 @@ Sou o Erik, desenvolvedor front-end e full stack em Mossoró, RN. Construo produ
   </picture>
 </h3>
 
-<img src="./assets/activity.svg" alt="Contribuições no GitHub no último ano" width="100%">
+<img src="https://raw.githubusercontent.com/ErikEliasV/ErikEliasV/atividade/activity.svg" alt="Contribuições no GitHub nos últimos 12 meses" width="100%">

@@ -14,17 +14,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Gera o painel de atividade
-        run: python3 .github/activity/activity.py ErikEliasV assets/activity.svg
+        run: python3 .github/activity/activity.py ErikEliasV out/activity.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Commita se mudou
+      # O painel vai para a branch "atividade", com um commit so, trocado a
+      # cada execucao. Assim a main nao recebe commits do bot.
+      - name: Publica na branch atividade
+        working-directory: out
         run: |
-          if git diff --quiet -- assets/activity.svg; then
-            echo "Sem mudanças."
-            exit 0
-          fi
+          git init -q -b atividade
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/activity.svg
-          git commit -m "chore: atualiza painel de atividade"
-          git push
+          git add activity.svg
+          git commit -q -m "chore: painel de atividade"
+          git push -q -f "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" atividade
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
