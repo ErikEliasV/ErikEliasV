@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="392" viewBox="0 0 1280 392" role="img" aria-label="1.610 contribuições no GitHub nos últimos 12 meses. 8x mais que nos 12 meses anteriores. 492 no melhor mês, out/2026. 6 sites publicados. TypeScript em 83% do código.">
+<style>@font-face{font-family:'Silk';src:url(data:font/woff2;base64,d09GMgABAAAAAAL0AA4AAAAAB7wAAAKjAAEAQgAAAAAAAAAAAAAAAAAAAAAAAAAAGhQbIBwgBmAAXBEICoVMhC4BNgIkA0ALIgAEIAWDbAcgGwsGKJ4D7s4iGNrSVgcxlAP2NQyHFQ/V2ufrnjma3f9ZHgl9dSqOWBEZE5vyiZNxpFM+whA7oj245kcJrCKwWr/yVkk+4BGMcDQa9F+3BTs99Joo0eCmmT7UQuopJvf634Bz8PT3Tn9tHZPbyom8+de0xsI1zjcFHME/b2zCj51HXcCRUepsBKrdQxmDMmONZVdHX/dEoAeE/DaaTQ7okWPrDqPCAKBu13IgH1sh7+Ua4nRnGzdl/GFJBK/rwrll48WuS6WGKO8FBMTX/LALR6JgCRdYIpyAGFuXVu3yi0kouwyA7tTHw2cfvfTMU3cFzYkQAxMwhWAXYgHxHL4AqICQYkGgVyTwxGZf23zZptM6XtaqO3W972J1NaOzNjWtc3HFqWili5Eum4sd3gCsAFaz4xV7gpFsRoKj4Ays4KkUBJleXyb6AFbYQMPFjR1cnWicHIobarh6rSSvNkJOExpVFyIHoaSJV7vTxOyLKMhfrWN2vpryPNq/8kYIgiIrIk+U3LGtyfl3XGIeYipUNdzhfsPFW/OxwlF5eOe+plU/Nm9PD6XyeW7a8KXtyGOkmrFASaM4DRAIhw721N9brfZtvZX34EHPBLxb3lh5Dit6bqFWJQj+dls9iw7VDFOX+GSglJ/57TZQqfhB1f0dKKZscBDqvTVX4aJu4D5ANiy9s2ndk2yx75OttiOzK86HS1g1/123dYGNqx2VTHHgkpGSkuYypxC5zKgMuj3ejkhkcRnbARoR78Cl7ehAAXb2XEIUBwcbexVJSTLVgeKIk8ADpiQZADKDSAIsB3tJ++jt4Yn2dQCDIC2R4N1VC0M9Q9Wixp2rmYCrsiRmKqvAXIyRXBkrEja9ACWtshykEy+UlCtXXBSXJ+zCCU9l4Wqp4fYA) format('woff2');}@font-face{font-family:'Geist';src:url(data:font/woff2;base64,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) format('woff2');}
+.silk{font-family:'Silk',ui-monospace,monospace;font-weight:700}
+.mono{font-family:'Geist',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+</style>
+<rect x="0.5" y="0.5" width="1279" height="391" fill="#111414" stroke="#263133"/>
+<rect x="1" y="1" width="1278" height="39" fill="#161A1A"/>
+<rect x="0" y="40" width="1280" height="1" fill="#263133"/>
+<rect x="18" y="15" width="10" height="10" fill="#486466"/>
+<rect x="34" y="15" width="10" height="10" fill="#33393A"/>
+<rect x="50" y="15" width="10" height="10" fill="#33393A"/>
+<text class="mono" x="1262" y="25" font-size="14" fill="#8A9192" text-anchor="end">github.com/ErikEliasV</text>
+<text class="silk" x="28" y="170" font-size="112" letter-spacing="-4" fill="#F1F1E8">1.610</text>
+<text class="mono" x="32" y="212" font-size="20" fill="#8A9192">contribuições nos últimos 12 meses</text>
+<text class="silk" x="700" y="112" font-size="36" letter-spacing="-1" fill="#F1F1E8">8x</text>
+<text class="mono" x="782" y="110" font-size="18" fill="#8A9192">mais que nos 12 meses anteriores</text>
+<text class="silk" x="700" y="164" font-size="36" letter-spacing="-1" fill="#F1F1E8">492</text>
+<text class="mono" x="808" y="162" font-size="18" fill="#8A9192">no melhor mês, out/2026</text>
+<text class="silk" x="700" y="216" font-size="36" letter-spacing="-1" fill="#F1F1E8">6</text>
+<text class="mono" x="748" y="214" font-size="18" fill="#8A9192">sites publicados</text>
+<rect x="32" y="244" width="1216" height="1" fill="#263133"/>
+<text class="mono" x="32" y="284" font-size="18" fill="#F1F1E8">TypeScript em 83% do código dos meus repositórios</text>
+<rect x="32" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="51" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="70" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="89" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="108" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="127" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="146" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="165" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="184" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="203" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="222" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="241" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="260" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="279" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="298" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="317" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="336" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="355" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="374" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="393" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="412" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="431" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="450" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="469" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="488" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="507" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="526" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="545" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="564" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="583" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="602" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="621" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="640" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="659" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="678" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="697" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="716" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="735" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="754" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="773" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="792" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="811" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="830" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="849" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="868" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="887" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="906" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="925" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="944" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="963" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="982" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="1001" y="302" width="17" height="20" fill="#8FB0B2"/>
+<rect x="1020" y="302" width="17" height="20" fill="#6F9193"/>
+<rect x="1039" y="302" width="17" height="20" fill="#6F9193"/>
+<rect x="1058" y="302" width="17" height="20" fill="#6F9193"/>
+<rect x="1077" y="302" width="17" height="20" fill="#6F9193"/>
+<rect x="1096" y="302" width="17" height="20" fill="#6F9193"/>
+<rect x="1115" y="302" width="17" height="20" fill="#486466"/>
+<rect x="1134" y="302" width="17" height="20" fill="#486466"/>
+<rect x="1153" y="302" width="17" height="20" fill="#486466"/>
+<rect x="1172" y="302" width="17" height="20" fill="#486466"/>
+<rect x="1191" y="302" width="17" height="20" fill="#2E4143"/>
+<rect x="1210" y="302" width="17" height="20" fill="#2E4143"/>
+<rect x="1229" y="302" width="17" height="20" fill="#2E4143"/>
+<rect x="32" y="348" width="12" height="12" fill="#8FB0B2"/>
+<text class="mono" x="52" y="359" font-size="16" fill="#8A9192">TypeScript 83%</text>
+<rect x="218.4" y="348" width="12" height="12" fill="#6F9193"/>
+<text class="mono" x="238.4" y="359" font-size="16" fill="#8A9192">CSS 7%</text>
+<rect x="328.0" y="348" width="12" height="12" fill="#486466"/>
+<text class="mono" x="348.0" y="359" font-size="16" fill="#8A9192">Python 6%</text>
+<rect x="466.4" y="348" width="12" height="12" fill="#2E4143"/>
+<text class="mono" x="486.4" y="359" font-size="16" fill="#8A9192">outros 4%</text>
+</svg>
